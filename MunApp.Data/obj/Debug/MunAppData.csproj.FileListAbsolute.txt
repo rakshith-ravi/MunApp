@@ -1,0 +1,5 @@
+D:\Rakshith\Shared with Ubuntu\C# Projects\Commercial\MunApp\MunApp Full\MunAppData\bin\Debug\MunAppData.dll
+D:\Rakshith\Shared with Ubuntu\C# Projects\Commercial\MunApp\MunApp Full\MunAppData\bin\Debug\MunAppData.pdb
+D:\Rakshith\Shared with Ubuntu\C# Projects\Commercial\MunApp\MunApp Full\MunAppData\obj\Debug\MunAppData.csprojResolveAssemblyReference.cache
+D:\Rakshith\Shared with Ubuntu\C# Projects\Commercial\MunApp\MunApp Full\MunAppData\obj\Debug\MunAppData.dll
+D:\Rakshith\Shared with Ubuntu\C# Projects\Commercial\MunApp\MunApp Full\MunAppData\obj\Debug\MunAppData.pdb

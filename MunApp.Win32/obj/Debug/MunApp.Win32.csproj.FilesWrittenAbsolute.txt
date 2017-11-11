@@ -1,0 +1,17 @@
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.Win32.ExcelImporter.resources
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.Win32.Intro.resources
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.Win32.TextFileImporter.resources
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.Win32.MainWindow.resources
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.Win32.Properties.Resources.resources
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.Win32.TopicChooser.resources
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.exe
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MetroFramework.dll
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MetroFramework.Design.dll
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MetroFramework.Fonts.dll
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MunAppData.dll
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MunAppData.dll.mdb
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MunApp.exe.config
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MunApp.exe.mdb
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/bin/Debug/MunApp.exe
+/home/rakshith/Projects/Commercial/MunApp/MunApp Full/MunApp.Win32/obj/Debug/MunApp.exe.mdb

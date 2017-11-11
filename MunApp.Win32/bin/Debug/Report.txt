@@ -1,0 +1,18 @@
+Country Name : India
+Attendance : Present
+Number of times spoken in GSL : 1
+Number of times spoken in Moderated Caucus : System.Collections.Generic.List`1[MunApp.Common.Topic]
+Number of times spoken in SSL : 0
+
+Country Name : UK
+Attendance : PresentAndVoting
+Number of times spoken in GSL : 0
+Number of times spoken in Moderated Caucus : System.Collections.Generic.List`1[MunApp.Common.Topic]
+Number of times spoken in SSL : 0
+
+Country Name : USA
+Attendance : PresentAndVoting
+Number of times spoken in GSL : 0
+Number of times spoken in Moderated Caucus : System.Collections.Generic.List`1[MunApp.Common.Topic]
+Number of times spoken in SSL : 0
+

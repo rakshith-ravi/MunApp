@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="MunApp.Win32/MunApp.Win32.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MunApp.Win32/MainWindow.cs">
+    <Files>
+      <File FileName="MunApp.Data/Data.cs" Line="1" Column="1" />
+      <File FileName="MunApp.Data/Debug.cs" Line="28" Column="16" />
+      <File FileName="MunApp.Win32/ExcelImporter.cs" Line="20" Column="34" />
+      <File FileName="MunApp.Win32/MainWindow.cs" Line="24" Column="53" />
+      <File FileName="MunApp.Win32/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

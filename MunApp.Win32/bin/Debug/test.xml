@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data
+  FirstRun="False"
+  MacAddress="1EB5B8ADD7BF"
+  CommitteeName="UNHRC"
+  GSLAgenda="Some Agenda"
+  SSLAgenda="Agenda can be changed in settings"
+  RollCallDone="True"
+  ExtraData="True::Light::Blue">
+  <Country
+    Name="India"
+    Flag=".\Flags\India.jpg"
+    Attendance="Present"
+    GSL="1"
+    SSL="0" />
+  <Country
+    Name="UK"
+    Flag=".\Flags\UK.png"
+    Attendance="PresentAndVoting"
+    GSL="0"
+    SSL="0" />
+  <Country
+    Name="USA"
+    Flag=".\Flags\USA.jpg"
+    Attendance="PresentAndVoting"
+    GSL="0"
+    SSL="0" />
+  <Topics>
+    <Topic
+      Heading="Test topic"
+      Passed="True"
+      ProposedBy="India">
+      <SpeakingCountries />
+    </Topic>
+    <Topic
+      Heading="some ranndome topic"
+      Passed="True"
+      ProposedBy="India">
+      <SpeakingCountries />
+    </Topic>
+    <Topic
+      Heading=""
+      Passed="False"
+      ProposedBy="UK">
+      <SpeakingCountries />
+    </Topic>
+    <Topic
+      Heading=""
+      Passed="False"
+      ProposedBy="USA">
+      <SpeakingCountries />
+    </Topic>
+  </Topics>
+</Data>
